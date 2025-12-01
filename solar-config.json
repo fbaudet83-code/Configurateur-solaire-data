@@ -1,0 +1,37 @@
+{
+  "k2": {
+    "RAIL_2400": { "id": "K2S/2003458", "description": "K2 Single Rail 36 de 2,4 m", "unit": "piece", "length": 2400, "price": "A0J792" },
+    "SPLICE": { "id": "K2S/2001976", "description": "K2S Connecteur de Rails Single Rail 36", "unit": "piece", "price": "A08TU6" },
+    "END_CAP": { "id": "K2S/1004767", "description": "K2 Bouchon NOIR P.Rail 36", "unit": "piece", "price": "A08TR3" },
+    "MID_CLAMP": { "id": "K2S/2004148", "description": "K2 Bride Int Universelle (31 à 42mm) NOIR", "unit": "piece", "price": "A09504" },
+    "END_CLAMP": { "id": "K2S/2004545", "description": "K2 Bride Ext Universelle (31 à 42mm) NOIR", "unit": "piece", "price": "A30ZQ3" },
+    "HOOK_CROSSHOOK": { "id": "K2S/2003144", "description": "K2S Crochets CrossHook 4S (Crochet pour tuiles galbés)", "unit": "piece", "price": "A08U06" },
+    "WOOD_SCREW_8X100": { "id": "K2S/2004112", "description": "K2 Vis bois Heco Topix 8x100", "unit": "piece", "price": "A04DJ6" },
+    "GROUND_LUG_K2SZ": { "id": "K2S/2001881", "description": "K2 Griffe de mise à la terre K2SZ", "unit": "piece", "price": "A08U89" },
+    "STAIRPLATE_KIT": { "id": "K2S/2004057", "description": "Kit StairPlate (Fixation micro onduleur)", "unit": "piece", "price": "A08TP7" },
+    "MK2_NUT": { "id": "K2S/1001643", "description": "Ecrou-prisonnierMK2 avec clip de montage(micro-onduleur)", "unit": "piece", "price": "210110" },
+    "M8_SCREW": { "id": "K2S/2001735", "description": "Vis avec rondelle intégrée M8x16", "unit": "piece", "price": "210111" }
+  },
+  "esdec": {
+    "RAIL_2338": { "id": "1008132", "description": "ClickFit EVO - Rail de montage 2338mm", "unit": "piece", "length": 2338, "price": "A0B095" },
+    "SPLICE": { "id": "1008061", "description": "ClickFit EVO - Coupleur de rail", "unit": "piece", "price": "A0B0A2" },
+    "END_CAP": { "id": "1008060", "description": "ClickFit EVO - Terminaison de rail gris", "unit": "piece", "price": "A0B0D6" },
+    "UNIVERSAL_CLAMP": { "id": "1008020", "description": "ClickFit EVO - Etrier universel Gris", "unit": "piece", "price": "A0B0B0" },
+    "HOOK_UNIVERSAL": { "id": "1008040", "description": "ClickFit EVO - Crochet de toit liteau-Fermette - UniversalHook", "unit": "piece", "price": "A0B087" },
+    "HOOK_GASKET": { "id": "1008063", "description": "ClickFit EVO - Entretoise caoutchouc protection tuile", "unit": "piece", "price": "A0B0E3" },
+    "MOUNTING_GUIDE": { "id": "1008064", "description": "ClickFit EVO - Guide d'aide au montage", "unit": "piece", "price": "A2KHU5" },
+    "HANGER_BOLT": { "id": "1008053", "description": "ClickFit EVO - Vis de fixation pour tôle ondulée/fibrociment", "unit": "piece", "price": "310109" },
+    "GROUND_LUG": { "id": "ESD-GRD-01", "description": "ESDEC Griffe de mise à la terre", "unit": "piece", "price": "310110" }
+  },
+  "panels": {
+    "DMEGC 405Wc (1722x1134mm)": { "id": "DMEGC 405Wc (1722x1134mm)", "description": "DMEGC 405Wc (1722x1134mm)", "unit": "piece", "width": 1134, "height": 1722, "power": 405, "price": "", "electrical": { "voc": 37.2, "isc": 13.6, "vmp": 31, "imp": 13.06, "tempCoeffVoc": -0.27 } },
+    "DMEGC 425Wc (1728x1134mm)": { "id": "DMEGC 425Wc (1728x1134mm)", "description": "DMEGC 425Wc (1728x1134mm)", "unit": "piece", "width": 1134, "height": 1728, "power": 425, "price": "", "electrical": { "voc": 38.1, "isc": 14, "vmp": 32.2, "imp": 13.2, "tempCoeffVoc": -0.27 } },
+    "DMEGC 500Wc (1950x1134mm)": { "id": "DMEGC 500Wc (1950x1134mm)", "description": "DMEGC 500Wc (1950x1134mm)", "unit": "piece", "width": 1134, "height": 1950, "power": 500, "price": "A09WQ0", "electrical": { "voc": 45.5, "isc": 13.9, "vmp": 38.4, "imp": 13.02, "tempCoeffVoc": -0.26 } },
+    "DMEGC 550Wc (2278x1134mm)": { "id": "DMEGC 550Wc (2278x1134mm)", "description": "DMEGC 550Wc (2278x1134mm)", "unit": "piece", "width": 1134, "height": 2278, "power": 550, "price": "", "electrical": { "voc": 49.8, "isc": 14.1, "vmp": 42, "imp": 13.1, "tempCoeffVoc": -0.26 } }
+  },
+  "inverters": {
+    "IQ8MC": { "id": "ENP-IQ8MC-72-M-INT", "description": "Micro-onduleur Enphase IQ8MC", "unit": "piece", "price": "", "power": 330, "electrical": { "maxInputVoltage": 60, "maxAcPower": 330 } },
+    "IQ8HC": { "id": "ENP-IQ8HC-72-M-INT", "description": "Micro-onduleur Enphase IQ8HC", "unit": "piece", "price": "", "power": 380, "electrical": { "maxInputVoltage": 60, "maxAcPower": 380 } },
+    "DS3": { "id": "APS-DS3", "description": "Micro-onduleur AP Systems DS3", "unit": "piece", "price": "", "power": 880, "electrical": { "maxInputVoltage": 60, "maxAcPower": 440 } }
+  }
+}
