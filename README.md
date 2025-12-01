@@ -1,2 +1,2 @@
-# Configurateur-solaire-data
+# solar-data
 Base de donnée calculette pv richardson 
